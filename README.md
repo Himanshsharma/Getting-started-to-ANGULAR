@@ -13,13 +13,25 @@ INSTALLING ANGULAR CLI
 
 
 
+
 npm install -g @angular/cli
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
 FIRST PROJECT
+
 
 
 
@@ -32,7 +44,18 @@ ng new <name 0f project>
 
 
 
+
+
+
+
+
+
+
+
+
 TO SERVER YOUR PROJECT
+
+
 
 
 
