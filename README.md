@@ -9,11 +9,33 @@ Angular is a structural framework for dynamic web apps. With AngularJS, designer
 
 
 INSTALLING ANGULAR CLI
+
+
+
+
 npm install -g @angular/cli
 
+
+
+
+
 FIRST PROJECT
+
+
+
+
+
 ng new <name 0f project>
 
+
+
+
+
+
 TO SERVER YOUR PROJECT
+
+
+
+
 cd my-first-project
 ng serve
